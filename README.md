@@ -4,9 +4,7 @@ Welcome to the Bistro Boss Client with JWT repository. Today we added user authe
 
 [Server Repo Link](https://github.com/ProgrammingHero1/bistro-boss-server-with-jwt-part_5)
 
-## New Packages Used
 
-No new packages were used today.
 
 ## What We Did Today
 
